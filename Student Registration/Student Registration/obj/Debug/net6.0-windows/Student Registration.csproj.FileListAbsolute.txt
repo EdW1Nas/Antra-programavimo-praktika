@@ -1,0 +1,56 @@
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.exe
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.deps.json
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.runtimeconfig.json
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.pdb
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.AssemblyInfoInputs.cache
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.AssemblyInfo.cs
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\refint\Student Registration.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.pdb
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.genruntimeconfig.cache
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\ref\Student Registration.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.CopyComplete
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form2.resources
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form1.resources
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form3.resources
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\Edvinas\Desktop\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form4.resources
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.exe
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.deps.json
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.runtimeconfig.json
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Student Registration.pdb
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form1.resources
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form2.resources
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form3.resources
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student_Registration.Form4.resources
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.AssemblyInfoInputs.cache
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.AssemblyInfo.cs
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.csproj.CopyComplete
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\refint\Student Registration.dll
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.pdb
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\Student Registration.genruntimeconfig.cache
+C:\Users\Edvinas\Desktop\Kolegija\2 Kursas\2 Kursas (Ruduo)\2 Programavimo Praktika\darbas\Student Registration\Student Registration\obj\Debug\net6.0-windows\ref\Student Registration.dll

@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Edvinas\\Desktop\\Kolegija\\2 Kursas\\2 Kursas (Ruduo)\\2 Programavimo Praktika\\darbas\\Student Registration\\Student Registration\\Student Registration.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Edvinas\\Desktop\\Kolegija\\2 Kursas\\2 Kursas (Ruduo)\\2 Programavimo Praktika\\darbas\\Student Registration\\Student Registration\\Student Registration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\2 Kursas\\2 Kursas (Ruduo)\\2 Programavimo Praktika\\darbas\\Student Registration\\Student Registration\\Student Registration.csproj",
+        "projectName": "Student Registration",
+        "projectPath": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\2 Kursas\\2 Kursas (Ruduo)\\2 Programavimo Praktika\\darbas\\Student Registration\\Student Registration\\Student Registration.csproj",
+        "packagesPath": "C:\\Users\\Edvinas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\2 Kursas\\2 Kursas (Ruduo)\\2 Programavimo Praktika\\darbas\\Student Registration\\Student Registration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edvinas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Equin.ApplicationFramework.BindingListView": {
+              "target": "Package",
+              "version": "[1.4.5222.35545, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
